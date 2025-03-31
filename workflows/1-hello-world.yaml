@@ -20,9 +20,4 @@ jobs:
 
              - name: Say Goodbyes
                run: echo "Goodbye"              
-```
-
-
-
-
-​            
+```    
