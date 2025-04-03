@@ -1,5 +1,5 @@
 ```yaml
-name: 1 - hello - world
+name: 1-hello-world
 
 on: push
 
