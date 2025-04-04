@@ -1,7 +1,6 @@
 name: 3 - Simple API call
 
 on:
-  push: 
   schedule:
    - cron: '00 05 * * *' 
    - cron: '05 05 * * *'
